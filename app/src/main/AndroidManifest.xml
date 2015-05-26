@@ -28,6 +28,14 @@
             android:name=".DodajStudentaActivity"
             android:label="@string/title_activity_dodaj_studenta" >
         </activity>
+        <activity
+            android:name=".ListaTematowActivity"
+            android:label="@string/title_activity_lista_tematow" >
+        </activity>
+        <activity
+            android:name=".DodajTematActivity"
+            android:label="@string/title_activity_dodaj_temat" >
+        </activity>
     </application>
 
 </manifest>

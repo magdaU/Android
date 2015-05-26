@@ -7,4 +7,6 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="title_activity_dodaj_studenta">DodajStudentaActivity</string>
+    <string name="title_activity_lista_tematow">ListaTematowActivity</string>
+    <string name="title_activity_dodaj_temat">DodajTematActivity</string>
 </resources>

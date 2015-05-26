@@ -1,14 +1,13 @@
 package pl.edu.pj.sake.sake_kadra;
 
 import android.app.Activity;
-import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
-import android.view.Menu;
-import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
+
+import pl.edu.pj.sake.pl.edu.pj.sake.db.StudentDB;
 
 
 public class DodajStudentaActivity extends Activity {
